@@ -22,7 +22,8 @@ A responsive e-commerce web application built using React and Vite. This project
 4. Open in browser  
 
 ## 📷 Screenshots
-(Add your project screenshots here)
+
+![App Screenshot](screenshot.png)
 
 ## 📚 What I Learned
 - Building React components and managing state  
